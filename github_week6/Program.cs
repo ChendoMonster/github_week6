@@ -7,6 +7,7 @@ namespace github_week6
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Extra regel");
         }
     }
 }
