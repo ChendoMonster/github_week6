@@ -8,6 +8,7 @@ namespace github_week6
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Extra regel");
+            Console.WriteLine("Extra regel vanuit github");
         }
     }
 }
